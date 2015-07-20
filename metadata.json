@@ -1,0 +1,18 @@
+{
+  "author": "Falcas Cristi",
+  "name": "optymyzepuppet-zram",
+  "version": "0.1.5",
+  "dependencies": [
+    {
+      "name": "puppetlabs/stdlib",
+      "version_requirement": "4.x"
+    }
+  ],
+  "license": "optymyze",
+  "operatingsystem_support": [],
+  "project_page": "https://v-git-op-01.optymyze.net/pp_management/zram",
+  "requirements": [],
+  "source": "git@v-git-op-01.optymyze.net:pp_management/zram.git",
+  "summary": "installs and configures zram",
+  "tags": []
+}

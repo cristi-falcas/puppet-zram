@@ -1,0 +1,2 @@
+class zram::install {
+}
