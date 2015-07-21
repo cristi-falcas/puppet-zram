@@ -1,6 +1,6 @@
 {
   "author": "Falcas Cristi",
-  "name": "optymyzepuppet-zram",
+  "name": "cristifalcas-zram",
   "version": "0.1.5",
   "dependencies": [
     {
@@ -8,11 +8,11 @@
       "version_requirement": "4.x"
     }
   ],
-  "license": "optymyze",
+  "license": "Apache-2.0",
   "operatingsystem_support": [],
-  "project_page": "https://v-git-op-01.optymyze.net/pp_management/zram",
+  "project_page": "https://github.com/cristifalcas/puppet-zram",
   "requirements": [],
-  "source": "git@v-git-op-01.optymyze.net:pp_management/zram.git",
+  "source": "git@github.com:cristifalcas/puppet-zram.git",
   "summary": "installs and configures zram",
   "tags": []
 }
