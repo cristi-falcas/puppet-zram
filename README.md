@@ -1,4 +1,5 @@
 # zram
+[![Build Status](https://travis-ci.org/cristifalcas/puppet-zram.png?branch=master)](https://travis-ci.org/cristifalcas/puppet-zram)
 
 #### Table of Contents
 
