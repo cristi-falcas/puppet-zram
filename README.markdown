@@ -1,3 +1,0 @@
-# zram #
-
-This is the zram module. It provides...
