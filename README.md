@@ -9,7 +9,7 @@
     * [Beginning with zram](#beginning-with-zram)
 3. [Usage - Configuration options and additional functionality](#usage)
 4. [Limitations - OS compatibility, etc.](#limitations)
-5. [Development - Guide for contributing to the module](#development)
+5. [Contributing - Guide for contributing to the module](#development)
 
 ## Overview
 
@@ -43,7 +43,9 @@ The module requires a kernel with zram module.
 
 It was only tested with OracleLinux 6 and OracleLinux 7 distributions.
 
-## Development
+## Contributing
 
-Since your module is awesome, other users will want to play with it. Let them
-know what the ground rules for contributing are.
+* Fork the project
+* Commit and push until you are happy with your contribution
+* Send a pull request with a description of your changes
+
