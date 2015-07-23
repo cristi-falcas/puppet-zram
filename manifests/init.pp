@@ -2,13 +2,11 @@
 #
 # This module manages zram
 #
-# Parameters: none
-#
-# Actions:
-#
-# Requires: see Modulefile
+# === Parameters:
+# $default_path::                path where to copy zram_stats.sh script
 #
 # Sample Usage:
+# include zram
 #
 class zram ($default_path = '/opt/zram') {
   contain zram::config
