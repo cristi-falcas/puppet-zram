@@ -1,6 +1,6 @@
 {
   "name": "cristifalcas-zram",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "author": "Falcas Cristi",
   "dependencies": [
     {
@@ -17,3 +17,4 @@
   "requirements": [],
   "tags": ["zram"]
 }
+
